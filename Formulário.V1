@@ -1,0 +1,11 @@
+<p>Formul&aacute;rio para cadastro de pontos turisticos</p>
+
+<p>&nbsp;</p>
+
+<!-- cabeçalho do formulário -->
+<h1>Cadastro de novos pontos turisticos</h1>
+
+<form id="formulario" action="contato.html" method="post">
+       
+</form>
+
